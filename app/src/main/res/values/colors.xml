@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00000000</color>
+    <color name="colorPrimaryDark">#00000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="level1">#a3d765</color>
+    <color name="level2">#f0cc35</color>
+    <color name="level3">#f1ab62</color>
+    <color name="level4">#ef7f77</color>
+    <color name="level5">#b28ccb</color>
+    <color name="level6">#ad788a</color>
+</resources>
